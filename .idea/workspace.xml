@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fa3ce48-11fa-483d-ba62-462472246c41" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/Crower$1.class" afterPath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/Crower$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/Crower.class" afterPath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/Crower.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/Main.class" afterPath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/TestCrower.class" afterPath="$PROJECT_DIR$/out/production/SearchAdPlatform/com/fang/TestCrower.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/fang/Crower.java" afterPath="$PROJECT_DIR$/src/com/fang/Crower.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/fang/Main.java" afterPath="$PROJECT_DIR$/src/com/fang/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/fang/TestCrower.java" afterPath="$PROJECT_DIR$/src/com/fang/TestCrower.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fang/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="32" column="51" lean-forward="false" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+            <state relative-caret-position="270">
+              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Crower.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Crower.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fang/Crower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="99" column="51" lean-forward="true" selection-start-line="99" selection-start-column="51" selection-end-line="99" selection-end-column="51" />
+            <state relative-caret-position="236">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2962#2977#0" expanded="true" />
@@ -45,13 +45,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestCrower.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestCrower.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fang/TestCrower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="33" column="77" lean-forward="false" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
+            <state relative-caret-position="401">
+              <caret line="87" column="50" lean-forward="true" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#988#1003#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,11 +81,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>exce</find>
       <find>results</find>
-      <find>excep</find>
       <find>User_a</find>
       <find>price</find>
+      <find>exc</find>
+      <find>excep</find>
+      <find>exce</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,9 +103,9 @@
         <option value="D:/CodeBase/java lib/jsoup-1.10.3.jar!/org/jsoup/nodes/Element.class" />
         <option value="D:/CodeBase/java lib/jsoup-1.10.3.jar!/org/jsoup/select/Selector.class" />
         <option value="$PROJECT_DIR$/src/com/fang/Ad.java" />
-        <option value="$PROJECT_DIR$/src/com/fang/TestCrower.java" />
-        <option value="$PROJECT_DIR$/src/com/fang/Main.java" />
         <option value="$PROJECT_DIR$/src/com/fang/Crower.java" />
+        <option value="$PROJECT_DIR$/src/com/fang/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/fang/TestCrower.java" />
       </list>
     </option>
   </component>
@@ -433,7 +435,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -445,7 +446,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27058825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27058825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -504,6 +505,7 @@
           <caret line="32" column="48" lean-forward="false" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#988#1003#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -532,33 +534,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fang/TestCrower.java">
+    <entry file="file://$PROJECT_DIR$/src/com/fang/Crower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="33" column="77" lean-forward="false" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
+        <state relative-caret-position="236">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2962#2977#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fang/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="32" column="51" lean-forward="false" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        <state relative-caret-position="270">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fang/Crower.java">
+    <entry file="file://$PROJECT_DIR$/src/com/fang/TestCrower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="99" column="51" lean-forward="true" selection-start-line="99" selection-start-column="51" selection-end-line="99" selection-end-column="51" />
+        <state relative-caret-position="401">
+          <caret line="87" column="50" lean-forward="true" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2962#2977#0" expanded="true" />
+            <element signature="e#988#1003#0" expanded="true" />
           </folding>
         </state>
       </provider>

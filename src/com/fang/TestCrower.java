@@ -7,6 +7,8 @@ import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -15,61 +17,92 @@ import java.util.Map;
  */
 public class TestCrower {
 
+    private static final String USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36";
+
     private static final String AMAZON_QUERY_URL = "https://www.amazon.com/s/ref=nb_sb_noss?field-keywords=";
 
     public TestCrower() {
 
     }
 
-    public void parseAmazonProdPage(String keyword, Map<String, Ad> map) {
+    public void getAmazonProds(String query, double bidPrice, int campaignId, int queryGroupId, Map<String, Ad> productsRecord) {
+
+        String url = AMAZON_QUERY_URL+query.replaceAll(" ", "%20");
+
         try {
-            String url = AMAZON_QUERY_URL+keyword.replaceAll(" ", "%20");
             // Set up headers
             HashMap<String,String> headers = new HashMap<String,String>();
             headers.put("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8");
-            headers.put("Accept-Encoding", "gzip, deflate, br");
-            headers.put("Accept-Language", "en-US,en;q=0.8");
+//            headers.put("Accept-Encoding", "gzip, deflate, sdch, br");
+            headers.put("Accept-Language", "en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4");
+
 
             // Get http requust result
-            Document doc = Jsoup.connect(url).maxBodySize(0).headers(headers).timeout(10000).get();
-
-            //Document doc = Jsoup.connect(url).timeout(2000).get();
-            System.out.println(url);
-            //String detailedUrl = doc.baseUri();
-            //System.out.println(detailedUrl);
+            Document doc = Jsoup.connect(url).headers(headers).userAgent(USER_AGENT).timeout(10000).get();
 
             Element category = doc.select("#leftNavContainer > ul:nth-child(2) > div > li:nth-child(1) > span > a > h4").first();
-            System.out.println(category.text());
 
-            Elements results = doc.getElementsByAttributeValueStarting("id", "result_");
+            // Get product elements in one page
+            Elements products = doc.getElementsByAttributeValueStarting("id", "result_");
+            //System.out.println("number of products: " + products.size());
 
-            System.out.println(results.size());
-            for(Element element : results) {
-                System.out.println(element.attributes().get("data-asin"));
-                Element titleElement = element.getElementsByAttribute("data-attribute").first();
-                Element priceElement = element.getElementsByAttribute("aria-label").first();
-                Element brandElement = element.getElementsByClass("a-size-small a-color-secondary").get(1);
-                Element imgUrlElement = element.getElementsByAttribute("src").first();
-                Element refUrlElement = element.getElementsByAttribute("href").first();
+            for(Element product : products){
+                // get asin, titile, price, brand, imgUrl, refUrl
                 try {
-                    System.out.println(titleElement.attr("data-attribute"));
-                    System.out.println(Double.parseDouble(priceElement.attr("aria-label").substring(1)));
-                    System.out.println(brandElement.text());
-                    System.out.println(imgUrlElement.attr("src"));
-                    System.out.println(refUrlElement.attr("href"));
+                    String asin = product.attributes().get("data-asin");
+
+                    // if Ad exist get the ad from record, if not create a new ad
+                    Ad newAd = productsRecord.getOrDefault(asin, new Ad());
+
+                    Element titleElement = product.getElementsByAttribute("title").first();
+                    Element priceElement = product.getElementsByAttribute("aria-label").first();
+                    Element brandElement = product.getElementsByClass("a-size-small a-color-secondary").get(1);
+                    Element imgUrlElement = product.getElementsByAttribute("src").first();
+                    Element refUrlElement = product.getElementsByAttribute("href").first();
+
+                    newAd.title = titleElement.attr("title");
+                    System.out.println("title: " + newAd.title);
+
+                    String priceStr = null;
+                    if(priceElement != null) {
+                        priceStr = priceElement.attr("aria-label").trim();
+                    } else {
+                        priceStr = product.getElementsByClass("a-size-small a-color-secondary").get(3).text();
+                    }
+
+                    if(priceStr.contains("-")) {
+                        priceStr = priceStr.substring(0, priceStr.indexOf("-"));
+                    }
+                    priceStr = priceStr.trim().substring(1);
+                    priceStr.replace(",", "");
+                    newAd.price = Double.parseDouble(priceStr.trim());
+                    System.out.println("price: " + newAd.price);
+                    newAd.brand = brandElement.text();
+                    System.out.println("brand: " + newAd.brand);
+                    newAd.thumbnail = imgUrlElement.attr("src");
+                    System.out.println("imgUrl: " + newAd.thumbnail);
+                    newAd.detailUrl = refUrlElement.attr("href");
+                    System.out.println("detailUrl: " + newAd.detailUrl);
+                    newAd.keyWords = new ArrayList<>(Arrays.asList(newAd.title.split(" ")));
+                    newAd.bidPrice = bidPrice;
+                    newAd.campaignId = campaignId;
+                    newAd.catagory = category.text();
+                    newAd.query = query;
+                    newAd.queryGroupId = queryGroupId;
+
+                    productsRecord.put(asin, newAd);
                 } catch (Exception exception) {
+                    System.out.print("query: " + query + " getting products ");
                     System.out.println(exception.toString());
                 }
 
             }
-
-
-
-            //#result_0 > div > div > div > div.a-fixed-left-grid-col.a-col-right > div:nth-child(4) > div.a-column.a-span7 > div.a-row.a-spacing-none > a
-
-
-        } catch (IOException e) {
+        }catch (Exception e) {
+            // TODO Auto-generated catch block
+            System.out.println("query: " + query + "getting connection");
             e.printStackTrace();
         }
+
+
     }
 }
