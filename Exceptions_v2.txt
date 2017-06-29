@@ -1,0 +1,521 @@
+"D:\Program Files\Java\jdk1.8.0_131\bin\java" "-javaagent:D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.3\lib\idea_rt.jar=4899:D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\deploy.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\access-bridge-64.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\cldrdata.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\dnsns.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jaccess.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jfxrt.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\localedata.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\nashorn.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunec.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunjce_provider.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunmscapi.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunpkcs11.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\zipfs.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\javaws.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jfxswt.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\management-agent.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\plugin.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Users\Administrator\IdeaProjects\SearchAdPlatform\out\production\SearchAdPlatform;D:\CodeBase\java lib\jackson-annotations-2.8.3.jar;D:\CodeBase\java lib\jackson-core-2.8.3.jar;D:\CodeBase\java lib\jackson-databind-2.8.3.jar;D:\CodeBase\java lib\jsoup-1.10.3.jar" com.fang.Main
+Reading file using Buffered Reader
+query: Prenatal DHA getting products java.lang.NullPointerException
+query: Prenatal DHA getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: prenatal DHA supplement getting products java.lang.NullPointerException
+query: prenatal DHA supplement getting products java.lang.NullPointerException
+query: prenatal DHA supplement getting products java.lang.NullPointerException
+query: natural made prenatal DHA getting products java.lang.NullPointerException
+query: home theater system getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $249.99"
+query: home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NumberFormatException: For input string: "rime"
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $249.99"
+query: Home theater system speaker getting products java.lang.NullPointerException
+query: Home theater system speaker getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bose home theater system getting products java.lang.NullPointerException
+query: bluetooth home theater system getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: bluetooth home theater system getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $249.99"
+query: bluetooth home theater system getting products java.lang.NullPointerException
+query: bluetooth home theater system getting products java.lang.NullPointerException
+query: bluetooth home theater system getting products java.lang.NullPointerException
+query: LED TV getting products java.lang.NullPointerException
+query: LED TV getting products java.lang.NumberFormatException: For input string: "rime"
+query: LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $549.99"
+query: LED TV getting products java.lang.NullPointerException
+query: LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $298.00"
+query: LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $199.99"
+query: LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $549.99"
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $199.99"
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $298.00"
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $749.99"
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $2099.99"
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $549.99"
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $298.00"
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "rime"
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $1999.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $1999.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $649.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "rime"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $2099.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $1799.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: smart watch getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: smart watch for iphone getting products java.lang.NullPointerException
+query: smart watch for iphone getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: smart watch charger getting products java.lang.NullPointerException
+query: Video Games getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Video Games getting products java.lang.NullPointerException
+query: action & shooter video games getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: action & shooter video games getting products java.lang.NullPointerException
+query: adventure video games getting products java.lang.NullPointerException
+query: ikea outdoor furniture getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: ikea outdoor furniture getting products java.lang.NullPointerException
+query: ikea outdoor furniture getting products java.lang.NullPointerException
+query: ikea outdoor furniture getting products java.lang.NullPointerException
+query: outdoor furniture covers getting products java.lang.NullPointerException
+query: outdoor furniture set getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: outdoor furniture set getting products java.lang.NullPointerException
+query: suncast outdoor furniture getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: suncast outdoor furniture getting products java.lang.NullPointerException
+query: teak oil for outdoor furniture getting products java.lang.NullPointerException
+query: teak oil for outdoor furniture getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: beach outdoor furniture getting products java.lang.NullPointerException
+query: beach outdoor furniture getting products java.lang.NullPointerException
+query: garden bench outdoor furniture getting products java.lang.NullPointerException
+query: office desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: office desk getting products java.lang.NullPointerException
+query: office desk getting products java.lang.NullPointerException
+query: office computer desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: office computer desk getting products java.lang.NullPointerException
+query: office computer desk getting products java.lang.NullPointerException
+query: office computer desk getting products java.lang.NullPointerException
+query: home office desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: home office desk getting products java.lang.NullPointerException
+query: home office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: modern office desk getting products java.lang.NullPointerException
+query: modern office desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: modern office desk getting products java.lang.NullPointerException
+query: modern office desk getting products java.lang.NullPointerException
+query: Rotating office desk getting products java.lang.NullPointerException
+query: Corner L Shaped office desk getting products java.lang.NullPointerException
+query: Corner L Shaped office desk getting products java.lang.NullPointerException
+query: lego city sets getting products java.lang.NullPointerException
+query: lego city police station getting products java.lang.NullPointerException
+query: lego city airplane getting products java.lang.NullPointerException
+query: lego city airplane getting products java.lang.NullPointerException
+query: LEGO Juniors Construction getting products java.lang.NullPointerException
+query: LEGO Juniors Construction getting products java.lang.NullPointerException
+query: LEGO Ideas Book getting products java.lang.NullPointerException
+query: Camping Tent getting products java.lang.NullPointerException
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NullPointerException
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NullPointerException
+query: Little Explorer Camping Tent and Tools for kids getting products java.lang.NullPointerException
+query: marin bike getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Phone Mount  holder bike getting products java.lang.NullPointerException
+query: Shaver getting products java.lang.NullPointerException
+query: Philips Norelco Shaver getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Philips Norelco Shaver getting products java.lang.NullPointerException
+query: Electric Travel Shaver getting products java.lang.NullPointerException
+query: Cleaning Center Shaver for Men getting products java.lang.NullPointerException
+query: Cleaning Center Shaver for Men getting products java.lang.NullPointerException
+query: Braun Washable Shaver getting products java.lang.NullPointerException
+query: Braun Washable Shaver getting products java.lang.NullPointerException
+query: Braun Washable Shaver getting products java.lang.NullPointerException
+query: Panasonic Electric Razor getting products java.lang.NullPointerException
+query: Remington Foil Shaver getting products java.lang.NullPointerException
+query: Gillette Fusion Proglide Styler getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Gillette Fusion Proglide Styler getting products java.lang.NullPointerException
+query: Kids Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Kids Bed getting products java.lang.NullPointerException
+query: Twin Loft Bed getting products java.lang.NullPointerException
+query: Twin Loft Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Loft Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Wood Toddler Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Platform Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Sleeping Bag Sofa Bed getting products java.lang.NullPointerException
+query: Metal Daybed Frame getting products java.lang.NullPointerException
+query: 14 Inch Steel Bed Frame getting products java.lang.NullPointerException
+query: Twin Bed Set getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Bed Set getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Char-Broil Charcoal grill getting products java.lang.NullPointerException
+query: Char-Broil Charcoal grill getting products java.lang.NullPointerException
+query: Char-Broil Charcoal grill getting products java.lang.NullPointerException
+query: Weber Gas grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+query: tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+query: tea maker getting products java.lang.NullPointerException
+query: tea maker getting products java.lang.NullPointerException
+query: tea maker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: iced tea maker getting products java.lang.NullPointerException
+query: iced tea maker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: iced tea maker getting products java.lang.NullPointerException
+query: iced tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $129.99"
+query: one-touch tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+query: one-touch tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+query: one-touch tea maker getting products java.lang.NullPointerException
+query: electric glass tea kettle getting products java.lang.NumberFormatException: For input string: "rime"
+query: electric glass tea kettle getting products java.lang.NullPointerException
+query: electric glass tea kettle getting products java.lang.NullPointerException
+query: electric glass tea kettle getting products java.lang.NumberFormatException: For input string: "rime"
+query: electric glass tea kettle getting products java.lang.NullPointerException
+query: tea brewing system getting products java.lang.NullPointerException
+query: tea brewing system getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+query: Gourmia glass tea maker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Portable Bluetooth Speaker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Portable Bluetooth Speaker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Portable Bluetooth Speaker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $58.00"
+query: Bluetooth Wireless Speaker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Bluetooth Wireless Speaker getting products java.lang.NullPointerException
+query: Magic Box II Bluetooth Speaker getting products java.lang.NullPointerException
+query: Magic Box II Bluetooth Speaker getting products java.lang.NullPointerException
+query: Magic Box II Bluetooth Speaker getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth Speaker ZENBRE Z3 10W getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: 4k wifi sports action camera getting products java.lang.NullPointerException
+query: 4k wifi sports action camera getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: goPro hero5 black getting products java.lang.NumberFormatException: For input string: "rime"
+query: waterproof sports camera with sony sensor getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: Timeless Face Moisture getting products java.lang.NullPointerException
+query: Oil Free Moisture getting products java.lang.NullPointerException
+query: Snow Blower getting products java.lang.NullPointerException
+query: Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Electric Snow Blower getting products java.lang.NullPointerException
+query: Electric Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Snow Joe Snow Blower getting products java.lang.NullPointerException
+query: Snow Joe Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Snow Joe Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Single Stage Snow Blower getting products java.lang.NullPointerException
+query: Single Stage Snow Blower getting products java.lang.NullPointerException
+query: Snow Blower Accessories getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Snow Blower Accessories getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: Shampoo getting products java.lang.NullPointerException
+query: Oily Hair Shampoo getting products java.lang.NullPointerException
+query: Hair Repair Shampoo getting products java.lang.NullPointerException
+query: Gaming Mouse getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Razer Gaming Mouse getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Ergonomic Gaming Mouse getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Silent Mechanical Gaming Keyboad getting products java.lang.NullPointerException
+query: Silent Mechanical Gaming Keyboad getting products java.lang.NullPointerException
+query: Silent Mechanical Gaming Keyboad getting products java.lang.NullPointerException
+query: Backlit Wired Gaming Keyboard getting products java.lang.NullPointerException
+query: Mecha-Membrane Gaming Keyboard getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Mecha-Membrane Gaming Keyboard getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Mecha-Membrane Gaming Keyboard getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Mecha-Membrane Gaming Keyboard getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Mecha-Membrane Gaming Keyboard getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Mecha-Membrane Gaming Keyboard getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Radio Control Vehicle getting products java.lang.NullPointerException
+query: Ford Mustang GT Radio Control Vehicle getting products java.lang.NullPointerException
+query: Ford Mustang GT Radio Control Vehicle getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle getting products java.lang.NullPointerException
+query: building toys for 5 year old boys getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: building toys for toddlers getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: building toys for toddlers getting products java.lang.NullPointerException
+query: building toys for kids getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: building toys for girls getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Pressure Cookers getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Pressure Cookers getting products java.lang.NullPointerException
+query: Instant Pot Pressure Cooker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Instant Pot Pressure Cooker getting products java.lang.NullPointerException
+query: Electric Pressure Cooker getting products java.lang.NullPointerException
+query: Electric Pressure Cooker getting products java.lang.NullPointerException
+query: Electric Pressure Cooker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Stainless Steel Pressure Cooker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Stainless Steel Pressure Cooker getting products java.lang.NullPointerException
+query: Multi-Functional Pressure Cooker getting products java.lang.NullPointerException
+query: Multi-Functional Pressure Cooker getting products java.lang.NullPointerException
+query: blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Personal Single Serve Blender getting products java.lang.NullPointerException
+query: Personal Single Serve Blender getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hand Blender Set getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $129.99"
+query: Hand Blender Set getting products java.lang.NullPointerException
+query: Hand Blender Set getting products java.lang.NullPointerException
+query: Grill Pans getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grill Pans getting products java.lang.NullPointerException
+query: grill pans for stove tops getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: grill pans for stove tops getting products java.lang.NullPointerException
+query: grill pans with lids getting products java.lang.NullPointerException
+query: grill pans with lids getting products java.lang.NullPointerException
+query: grill pans for outdoor grill getting products java.lang.NullPointerException
+query: grill pans for outdoor grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: weber grill pans getting products java.lang.NullPointerException
+query: pet bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Large Exercise Mats getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream for man getting products java.lang.NullPointerException
+query: SK-II Eye Cream getting products java.lang.NullPointerException
+query: SK-II Eye Cream getting products java.lang.NullPointerException
+query: SK-II Eye Cream getting products java.lang.NullPointerException
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Wall Mount Shelf getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Rack Organizer getting products java.lang.NullPointerException
+query: Rack Organizer getting products java.lang.NullPointerException
+query: Rack Organizer getting products java.lang.NullPointerException
+query: Battery Rack Organizer getting products java.lang.NullPointerException
+query: Battery Rack Organizer getting products java.lang.NullPointerException
+query: Spice Rack Organizer getting products java.lang.NullPointerException
+query: Spice Rack Organizer getting products java.lang.NullPointerException
+query: Can Rack Organizer getting products java.lang.NullPointerException
+query: Can Rack Organizer getting products java.lang.NullPointerException
+query: Shoe Rack Organizer getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: LED Camping Lantern getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Canopy Tent getting products java.lang.NullPointerException
+query: Canopy Tent getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Executive Chair getting products java.lang.NullPointerException
+query: Executive Chair getting products java.lang.NullPointerException
+query: Executive Chair getting products java.lang.NullPointerException
+query: Boss Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Bookcase getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Bookcase getting products java.lang.NullPointerException
+query: File Cabinets getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: File Cabinets getting products java.lang.NullPointerException
+query: File Cabinets getting products java.lang.NullPointerException
+query: IKEA File Cabinets getting products java.lang.NullPointerException
+query: Officeworks Filing Cabinets getting products java.lang.NullPointerException
+query: Officeworks Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: 3-drawer Filing Cabinet getting products java.lang.NullPointerException
+query: 3-drawer Filing Cabinet getting products java.lang.NullPointerException
+query: 3-drawer Filing Cabinet getting products java.lang.NullPointerException
+
+Process finished with exit code 0

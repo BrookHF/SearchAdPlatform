@@ -1,5 +1,6 @@
 package com.fang;
 
+import com.sun.org.apache.xpath.internal.SourceTree;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -8,7 +9,10 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.net.Authenticator;
 import java.net.PasswordAuthentication;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Created by Administrator on 6/26/2017.
@@ -53,10 +57,9 @@ public class Crower {
             e.printStackTrace();
         }
     }
-    public void getAmazonProds(String query) {
+    public void getAmazonProds(String query, double bidPrice, int campaignId, int queryGroupId, Map<String, Ad> productsRecord) {
 
         String url = AMAZON_QUERY_URL+query.replaceAll(" ", "%20");
-        System.out.println("url: " + url);
 
         try {
             // Set up headers
@@ -69,43 +72,53 @@ public class Crower {
             // Get http requust result
             Document doc = Jsoup.connect(url).headers(headers).userAgent(USER_AGENT).timeout(10000).get();
 
-            // Get page size
-            Integer docSize = doc.text().length();
-            System.out.println("page size: " + docSize);
-
-            // Get category of products
-            //Element categoryElement = doc.select("#leftNavContainer > ul:nth-child(2) > div > li:nth-child(1) > span > a > h4").first();
-            //String category = categoryElement.text();
-            //System.out.println(categoryElement.toString());
-            //System.out.println(categoryElement.text());
-
             Element category = doc.select("#leftNavContainer > ul:nth-child(2) > div > li:nth-child(1) > span > a > h4").first();
-            System.out.println(category.text());
+
             // Get product elements in one page
             Elements products = doc.getElementsByAttributeValueStarting("id", "result_");
-            System.out.println("number of products: " + products.size());
+            //System.out.println("number of products: " + products.size());
 
             for(Element product : products){
                 // get asin, titile, price, brand, imgUrl, refUrl
-                System.out.println(product.attributes().get("data-asin"));
-                Element titleElement = product.getElementsByAttribute("data-attribute").first();
-                Element priceElement = product.getElementsByAttribute("aria-label").first();
-                Element brandElement = product.getElementsByClass("a-size-small a-color-secondary").get(1);
-                Element imgUrlElement = product.getElementsByAttribute("src").first();
-                Element refUrlElement = product.getElementsByAttribute("href").first();
                 try {
-                    System.out.println(titleElement.attr("data-attribute"));
-                    System.out.println(Double.parseDouble(priceElement.attr("aria-label").substring(1)));
-                    System.out.println(brandElement.text());
-                    System.out.println(imgUrlElement.attr("src"));
-                    System.out.println(refUrlElement.attr("href"));
+                    String asin = product.attributes().get("data-asin");
+
+                    // if Ad exist get the ad from record, if not create a new ad
+                    Ad newAd = productsRecord.getOrDefault(asin, new Ad());
+
+                    Element titleElement = product.getElementsByAttribute("data-attribute").first();
+                    Element priceElement = product.getElementsByAttribute("aria-label").first();
+                    Element brandElement = product.getElementsByClass("a-size-small a-color-secondary").get(1);
+                    Element imgUrlElement = product.getElementsByAttribute("src").first();
+                    Element refUrlElement = product.getElementsByAttribute("href").first();
+
+                    newAd.title = titleElement.attr("data-attribute");
+                    String priceStr = priceElement.attr("aria-label").trim();
+                    if(priceStr.contains("-")) {
+                        priceStr = priceStr.substring(0, priceStr.indexOf("-"));
+                    }
+                    priceStr.replaceAll("[,$]", "");
+                    newAd.price = Double.parseDouble(priceStr.trim());
+                    newAd.brand = brandElement.text();
+                    newAd.thumbnail = imgUrlElement.attr("src");
+                    newAd.detailUrl = refUrlElement.attr("href");
+                    newAd.keyWords = new ArrayList<>(Arrays.asList(newAd.title.split(" ")));
+                    newAd.bidPrice = bidPrice;
+                    newAd.campaignId = campaignId;
+                    newAd.catagory = category.text();
+                    newAd.query = query;
+                    newAd.queryGroupId = queryGroupId;
+
+                    productsRecord.put(asin, newAd);
                 } catch (Exception exception) {
+                    System.out.print("query: " + query + " getting products ");
                     System.out.println(exception.toString());
                 }
 
             }
         }catch (Exception e) {
             // TODO Auto-generated catch block
+            System.out.println("query: " + query + "getting connection");
             e.printStackTrace();
         }
 

@@ -1,0 +1,869 @@
+"D:\Program Files\Java\jdk1.8.0_131\bin\java" "-javaagent:D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.3\lib\idea_rt.jar=4623:D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\deploy.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\access-bridge-64.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\cldrdata.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\dnsns.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jaccess.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\jfxrt.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\localedata.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\nashorn.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunec.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunjce_provider.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunmscapi.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\sunpkcs11.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\ext\zipfs.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\javaws.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jfxswt.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\management-agent.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\plugin.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Users\Administrator\IdeaProjects\SearchAdPlatform\out\production\SearchAdPlatform;D:\CodeBase\java lib\jackson-annotations-2.8.3.jar;D:\CodeBase\java lib\jackson-core-2.8.3.jar;D:\CodeBase\java lib\jackson-databind-2.8.3.jar;D:\CodeBase\java lib\jsoup-1.10.3.jar" com.fang.Main
+Reading file using Buffered Reader
+query: Prenatal DHA getting products java.lang.NullPointerException
+query: Prenatal DHA getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: prenatal DHA supplement getting products java.lang.NullPointerException
+query: prenatal DHA supplement getting products java.lang.NullPointerException
+query: prenatal DHA supplement getting products java.lang.NullPointerException
+query: natural made prenatal DHA getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: home theater system  getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $249.99"
+query: home theater system  getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NumberFormatException: For input string: "1,796.00"
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NumberFormatException: For input string: "rime"
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NullPointerException
+query: wireless home theater system getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $249.99"
+query: Home theater system speaker getting products java.lang.NullPointerException
+query: Home theater system speaker getting products java.lang.NullPointerException
+bose home theater system,25.0 ,8063 ,11reading file bluetooth home theater system,18.0,8064 ,11reading file reading file java.lang.NumberFormatException: For input string: "8063 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "8064 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: LED TV getting products java.lang.NullPointerException
+query: LED TV getting products java.lang.NumberFormatException: For input string: "rime"
+query: LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $549.99"
+query: LED TV getting products java.lang.NullPointerException
+query: LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $298.00"
+query: LED TV getting products java.lang.NumberFormatException: For input string: "1,197.99"
+query: LED TV getting products java.lang.NumberFormatException: For input string: "2,597.99"
+query: LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $199.99"
+query: LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $549.99"
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $199.99"
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $298.00"
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $749.99"
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Smart LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $2,099.99"
+query: Smart LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $549.99"
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $298.00"
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "1,498.00"
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "3,498.00"
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "1,098.00"
+query: Sony LED TV getting products java.lang.NullPointerException
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "rime"
+query: Sony LED TV getting products java.lang.NumberFormatException: For input string: "2,598.00"
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+query: TCL Smart LED TV getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $1,999.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "1,296.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $1,999.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $649.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "1,576.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "rime"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "1,196.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $2,099.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "1,196.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "2,996.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "1,296.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "1,496.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "2,996.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "2,796.99"
+query: LG 4K LED TV getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $1,799.99"
+query: LG 4K LED TV getting products java.lang.NullPointerException
+query: LG 4K LED TV getting products java.lang.NullPointerException
+reading file query: smart watch getting products java.lang.NumberFormatException: For input string: "23.99 - $25.99"
+query: smart watch getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: smart watch getting products java.lang.NumberFormatException: For input string: "26.99 - $29.99"
+query: smart watch for iphone getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: smart watch for iphone getting products java.lang.NullPointerException
+query: smart watch for iphone getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: samsung smart watch getting products java.lang.NullPointerException
+query: smart watch charger getting products java.lang.NullPointerException
+query: best smart watch brand getting products java.lang.NumberFormatException: For input string: "91.07 - $307.19"
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Video Games getting products java.lang.NullPointerException
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "2.99 - $9.99"
+query: action & shooter video games getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "4.99 - $10.99"
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "2.99 - $7.99"
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "3.99 - $12.99"
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "2.99 - $8.99"
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "3.99 - $12.99"
+query: action & shooter video games getting products java.lang.NullPointerException
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "3.99 - $7.99"
+query: action & shooter video games getting products java.lang.NumberFormatException: For input string: "12.99 - $13.99"
+query: adventure video games getting products java.lang.NullPointerException
+query: PlayStation 4 video games getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+reading file 	at com.fang.Main.main(Main.java:30)
+query: Outdoor Furniture getting products java.lang.NumberFormatException: For input string: "2,699.00"
+query: Outdoor Furniture getting products java.lang.NumberFormatException: For input string: "1,399.00"
+query: ikea outdoor furniture getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: ikea outdoor furniture getting products java.lang.NullPointerException
+query: ikea outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,880.99"
+query: ikea outdoor furniture getting products java.lang.NullPointerException
+query: ikea outdoor furniture getting products java.lang.NullPointerException
+query: ikea outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,149.00"
+query: ikea outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,399.00"
+query: outdoor furniture covers getting products java.lang.NullPointerException
+query: outdoor furniture set getting products java.lang.NumberFormatException: For input string: "2,699.00"
+query: outdoor furniture set getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: outdoor furniture set getting products java.lang.NullPointerException
+query: suncast outdoor furniture getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: suncast outdoor furniture getting products java.lang.NullPointerException
+query: suncast outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,149.00"
+query: teak oil for outdoor furniture getting products java.lang.NullPointerException
+query: teak oil for outdoor furniture getting products java.lang.NumberFormatException: For input string: "8.31 - $40.36"
+query: teak oil for outdoor furniture getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: teak oil for outdoor furniture getting products java.lang.NumberFormatException: For input string: "21.25 - $198.18"
+query: teak oil for outdoor furniture getting products java.lang.NumberFormatException: For input string: "13.09 - $88.06"
+query: teak oil for outdoor furniture getting products java.lang.NumberFormatException: For input string: "9.49 - $72.72"
+query: teak oil for outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,149.00"
+query: beach outdoor furniture getting products java.lang.NullPointerException
+query: beach outdoor furniture getting products java.lang.NullPointerException
+query: beach outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,149.00"
+query: beach outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,699.00"
+query: garden bench outdoor furniture getting products java.lang.NullPointerException
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,699.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,399.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,699.00"
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,149.00"
+	at com.fang.Main.main(Main.java:30)
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,399.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,799.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,399.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,399.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,541.89"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,118.19"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,149.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "2,599.00"
+query: urban outdoor furniture getting products java.lang.NumberFormatException: For input string: "1,295.00"
+reading file query: office desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: office desk getting products java.lang.NullPointerException
+query: office desk getting products java.lang.NullPointerException
+query: office desk getting products java.lang.NullPointerException
+query: office computer desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: office computer desk getting products java.lang.NullPointerException
+query: office computer desk getting products java.lang.NullPointerException
+query: office computer desk getting products java.lang.NullPointerException
+query: adjustable office desk getting products java.lang.NumberFormatException: For input string: "322.50 - $560.99"
+query: home office desk getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: home office desk getting products java.lang.NullPointerException
+query: home office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NumberFormatException: For input string: "485.49 - $764.46"
+query: metal office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: metal office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: glass office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: wood office desk getting products java.lang.NullPointerException
+query: modern office desk getting products java.lang.NullPointerException
+query: modern office desk getting products java.lang.NullPointerException
+query: modern office desk getting products java.lang.NullPointerException
+query: Rotating office desk getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: Corner L Shaped office desk getting products java.lang.NullPointerException
+	at com.fang.Main.main(Main.java:30)
+query: Corner L Shaped office desk getting products java.lang.NullPointerException
+reading file query: lego city sets getting products java.lang.NullPointerException
+query: lego city buildings getting products java.lang.NullPointerException
+query: lego city police station getting products java.lang.NullPointerException
+query: lego city police station getting products java.lang.NullPointerException
+query: lego city airplane getting products java.lang.NullPointerException
+query: lego city airplane getting products java.lang.NullPointerException
+query: lego city airplane getting products java.lang.NullPointerException
+query: LEGO Juniors Construction getting products java.lang.NullPointerException
+query: LEGO Ideas Book getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "58.36 - $504.26"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "40.81 - $430.00"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "132.43 - $20,350.44"
+query: Camping Tent getting products java.lang.NullPointerException
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "117.65 - $1,163.45"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "25.99 - $28.39"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "40.81 - $430.00"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "9.99 - $18.99"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "145.39 - $1,042.98"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "54.99 - $106.97"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "135.77 - $861.70"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "197.78 - $1,259.81"
+query: Camping Tent getting products java.lang.NumberFormatException: For input string: "51.02 - $310.00"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "271.25 - $1,782.96"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "179.99 - $895.74"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "186.99 - $1,531.74"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "130.51 - $857.45"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NullPointerException
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "1,744.68"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "169.97 - $188.68"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "69.03 - $158.10"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NumberFormatException: For input string: "315.66 - $2,130.94"
+query: Coleman 8 Person Instant Cabin Camping Tent getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Little Explorer Camping Tent and Tools for kids getting products java.lang.NullPointerException
+reading file query: bike getting products java.lang.NumberFormatException: For input string: "74.55 - $219.99"
+query: bike getting products java.lang.NumberFormatException: For input string: "88.56 - $132.51"
+query: bike getting products java.lang.NumberFormatException: For input string: "200.25 - $412.90"
+query: bike getting products java.lang.NumberFormatException: For input string: "199.00 - $449.99"
+query: bike getting products java.lang.NumberFormatException: For input string: "1.62 - $18.21"
+query: bike getting products java.lang.NumberFormatException: For input string: "4.99 - $34.78"
+query: bike getting products java.lang.NumberFormatException: For input string: "18.98 - $20.98"
+query: bike getting products java.lang.NumberFormatException: For input string: "88.56 - $151.44"
+query: bike getting products java.lang.NumberFormatException: For input string: "14.99 - $15.69"
+query: marin bike getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: marin bike getting products java.lang.NumberFormatException: For input string: "159.99 - $199.99"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "189.99 - $239.99"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "219.99 - $259.99"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "189.99 - $239.99"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "12.99 - $31.99"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "258.94 - $377.13"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "159.99 - $199.99"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "19.95 - $55.95"
+query: marin bike getting products java.lang.NumberFormatException: For input string: "13.00 - $13.99"
+query: hydraulic disc brakes bike getting products java.lang.NumberFormatException: For input string: "94.95 - $322.00"
+query: hydraulic disc brakes bike getting products java.lang.NumberFormatException: For input string: "89.99 - $109.99"
+query: hydraulic disc brakes bike getting products java.lang.NumberFormatException: For input string: "75.99 - $99.99"
+query: hydraulic disc brakes bike getting products java.lang.NumberFormatException: For input string: "8.80 - $29.99"
+query: hydraulic disc brakes bike getting products java.lang.NumberFormatException: For input string: "1,289.00"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "149.99 - $159.99"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "173.99 - $305.73"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "449.99 - $566.55"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "279.99 - $382.50"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "13.99 - $29.99"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "349.99 - $472.49"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "14.98 - $19.98"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "197.87 - $256.23"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "199.00 - $449.99"
+query: mountain bike getting products java.lang.NumberFormatException: For input string: "14.99 - $39.95"
+query: Phone Mount  holder bike getting products java.lang.NumberFormatException: For input string: "14.98 - $15.98"
+query: Phone Mount  holder bike getting products java.lang.NullPointerException
+query: Phone Mount  holder bike getting products java.lang.NumberFormatException: For input string: "7.99 - $9.99"
+query: Phone Mount  holder bike getting products java.lang.NumberFormatException: For input string: "8.99 - $9.99"
+query: Phone Mount  holder bike getting products java.lang.NumberFormatException: For input string: "10.00 - $127.87"
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Shaver getting products java.lang.NullPointerException
+query: Shaver getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Philips Norelco Shaver getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Philips Norelco Shaver getting products java.lang.NullPointerException
+query: Electric Travel Shaver getting products java.lang.NullPointerException
+query: Women Electric Shaver getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Cleaning Center Shaver for Men getting products java.lang.NullPointerException
+query: Cleaning Center Shaver for Men getting products java.lang.NullPointerException
+query: Braun Washable Shaver getting products java.lang.NullPointerException
+query: Braun Washable Shaver getting products java.lang.NullPointerException
+query: Braun Washable Shaver getting products java.lang.NullPointerException
+query: Panasonic Electric Razor getting products java.lang.NullPointerException
+query: Remington Foil Shaver getting products java.lang.NullPointerException
+query: Gillette Fusion Proglide Styler getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Kids Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Loft Bed getting products java.lang.NullPointerException
+query: Twin Loft Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Loft Bed getting products java.lang.NullPointerException
+query: Wood Toddler Bed getting products java.lang.NumberFormatException: For input string: "2,270.00"
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Twin Platform Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Platform Bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Platform Bed getting products java.lang.NullPointerException
+query: Sleeping Bag Sofa Bed getting products java.lang.NullPointerException
+query: Sleeping Bag Sofa Bed getting products java.lang.NumberFormatException: For input string: "24.88 - $24.99"
+query: Sleeping Bag Sofa Bed getting products java.lang.NumberFormatException: For input string: "18.99 - $19.99"
+query: Metal Daybed Frame getting products java.lang.NullPointerException
+query: 14 Inch Steel Bed Frame getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: Twin Bed Set getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at com.fang.Main.main(Main.java:30)
+query: Twin Bed Set getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Twin Bed Set getting products java.lang.NullPointerException
+reading file query: grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: grill getting products java.lang.NumberFormatException: For input string: "127.99 - $499.95"
+query: Char-Broil Charcoal grill getting products java.lang.NullPointerException
+query: Char-Broil Charcoal grill getting products java.lang.NullPointerException
+query: Char-Broil Charcoal grill getting products java.lang.NullPointerException
+query: Weber Gas grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Weber Gas grill getting products java.lang.NumberFormatException: For input string: "1,899.00"
+query: Indoor Electric grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grills & Outdoor Cooking getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "8181 "
+query: tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+query: tea maker getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $380.00"
+java.lang.NumberFormatException: For input string: "8182 "
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+query: tea maker getting products java.lang.NullPointerException
+	at java.lang.Integer.parseInt(Integer.java:580)
+query: tea maker getting products java.lang.NullPointerException
+	at java.lang.Integer.parseInt(Integer.java:615)
+iced tea maker , 1.5,8181 , 23reading file one-touch tea maker,3.8 ,8182 ,23reading file 	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "8184 "
+query: electric glass tea kettle getting products java.lang.NumberFormatException: For input string: "rime"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+query: electric glass tea kettle getting products java.lang.NullPointerException
+query: electric glass tea kettle getting products java.lang.NullPointerException
+query: electric glass tea kettle getting products java.lang.NullPointerException
+query: electric glass tea kettle getting products java.lang.NumberFormatException: For input string: "rime"
+tea brewing system,7.9,8184 ,23reading file query: Gourmia glass tea maker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+reading file reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Portable Bluetooth Speaker  getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Portable Bluetooth Speaker  getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Portable Bluetooth Speaker  getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $58.00"
+query: Bluetooth Wireless Speaker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Bluetooth Wireless Speaker getting products java.lang.NullPointerException
+query: Magic Box II Bluetooth Speaker getting products java.lang.NullPointerException
+query: Magic Box II Bluetooth Speaker getting products java.lang.NullPointerException
+query: Magic Box II Bluetooth Speaker getting products java.lang.NumberFormatException: For input string: "5,693.98"
+query: Magic Box II Bluetooth Speaker getting products java.lang.NumberFormatException: For input string: "4,193.98"
+query: Magic Box II Bluetooth Speaker getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NumberFormatException: For input string: "8.99 - $9.99"
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth V4.0 Portable Speaker Green getting products java.lang.NullPointerException
+query: Bluetooth Speaker ZENBRE Z3 10W  getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Lawn Mower getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.NullPointerException
+query: Lawn Mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.NullPointerException
+query: Electric Lawn Mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Lawn Mower With High Rear Wheels getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NumberFormatException: For input string: "1,599.00"
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NumberFormatException: For input string: "1,403.54"
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Propelled Mower With Electric Start getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+query: Self-Propelled Lawn Mower getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+query: Honda lawn mower getting products java.lang.NullPointerException
+reading file query: 4k wifi sports action camera getting products java.lang.NullPointerException
+query: 4k wifi sports action camera getting products java.lang.NullPointerException
+query: waterproof sports action camera getting products java.lang.NumberFormatException: For input string: "37.99 - $49.99"
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: 1080p full hd dv sports recorder getting products java.lang.NullPointerException
+query: goPro hero5 black getting products java.lang.NumberFormatException: For input string: "rime"
+query: waterproof sports dv getting products java.lang.NumberFormatException: For input string: "37.99 - $49.99"
+query: waterproof sports camera with sony sensor getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: floureon y8-p waterproof wireless mini wifi action sports camera getting products java.lang.NullPointerException
+query: sports camera with remote control getting products java.lang.NumberFormatException: For input string: "39.99 - $45.99"
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: sports camera with accessories getting products java.lang.NumberFormatException: For input string: "37.99 - $49.99"
+	at com.fang.Main.main(Main.java:30)
+reading file query: Timeless Face Moisture getting products java.lang.NullPointerException
+query: Oil Free Moisture getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+reading file query: Snow Blower getting products java.lang.NullPointerException
+query: Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Snow Blower getting products java.lang.NullPointerException
+query: Snow Blower getting products java.lang.NumberFormatException: For input string: "1,021.31"
+query: Electric Snow Blower getting products java.lang.NullPointerException
+query: Electric Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Electric Snow Blower getting products java.lang.NullPointerException
+query: Snow Joe Snow Blower getting products java.lang.NullPointerException
+query: Snow Joe Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Snow Joe Snow Blower getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Single Stage Snow Blower getting products java.lang.NullPointerException
+query: Single Stage Snow Blower getting products java.lang.NullPointerException
+query: Snow Blower Accessories getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: Snow Blower Accessories getting products java.lang.NullPointerException
+	at com.fang.Main.main(Main.java:30)
+reading file query: the best 10 sports camera getting products java.lang.NumberFormatException: For input string: "17.56 - $999.00"
+query: the best 10 sports camera getting products java.lang.NumberFormatException: For input string: "6.27 - $227.29"
+query: the best 10 sports camera getting products java.lang.NumberFormatException: For input string: "11.78 - $41.84"
+query: the best 10 sports camera getting products java.lang.NumberFormatException: For input string: "18.99 - $34.99"
+query: sports camera accessories for sale getting products java.lang.NumberFormatException: For input string: "14.99 - $17.99"
+query: Shop for sports camera at Best Buy getting products java.lang.NumberFormatException: For input string: "69.98 - $188.37"
+query: Shop for sports camera at Best Buy getting products java.lang.NumberFormatException: For input string: "13.79 - $225.34"
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NumberFormatException: For input string: "869.00 - $2,925.00"
+query: Shop for sports camera at Best Buy getting products java.lang.NumberFormatException: For input string: "31.54 - $112.48"
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+query: Shop for sports camera at Best Buy getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+query: SJCAM Sports Camera Flagship Store getting products java.lang.NullPointerException
+reading file query: Shampoo getting products java.lang.NullPointerException
+query: Shampoos & Conditioner Sets getting products java.lang.NumberFormatException: For input string: "25.14 - $56.00"
+query: Shampoos & Conditioner Sets getting products java.lang.NumberFormatException: For input string: "4.20 - $47.98"
+query: Oily Hair Shampoo getting products java.lang.NullPointerException
+query: Hair Repair Shampoo getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+reading file query: Gaming Mouse getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Razer Gaming Mouse  getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Ergonomic Gaming Mouse getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+Mechanical Gaming Keyboard,	6.0,	8271,	32reading file LED Gaming Keyboard,	4.0,	8272,	32reading file Silent Mechanical Gaming Keyboad,	12.0,	8273,	32reading file Backlit Wired Gaming Keyboard,	5.0,	8274,	32reading file Mecha-Membrane Gaming Keyboard,	8.0,	8275,	32reading file reading file reading file java.lang.NumberFormatException: For input string: "	8271"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "	8272"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "	8273"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "	8274"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.NumberFormatException: For input string: "	8275"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+reading file 	at com.fang.Main.main(Main.java:30)
+query: Radio Control Vehicle getting products java.lang.NullPointerException
+query: Radio Control Vehicle getting products java.lang.NullPointerException
+query: Ford Mustang GT Radio Control Vehicle getting products java.lang.NullPointerException
+query: Ford Mustang GT Radio Control Vehicle getting products java.lang.NullPointerException
+query: Ford Mustang GT Radio Control Vehicle getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle  getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle  getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle  getting products java.lang.NullPointerException
+query: Chevrolet Camaro SS Radio Control Vehicle  getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: building toys for toddlers getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: building toys for kids getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+reading file query: Pressure Cookers getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Pressure Cookers getting products java.lang.NullPointerException
+query: Instant Pot Pressure Cooker getting products java.lang.NullPointerException
+query: Electric Pressure Cooker getting products java.lang.NullPointerException
+query: Electric Pressure Cooker getting products java.lang.NullPointerException
+query: Electric Pressure Cooker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Stainless Steel Pressure Cooker getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Stainless Steel Pressure Cooker getting products java.lang.NullPointerException
+query: Multi-Functional Pressure Cooker getting products java.lang.NullPointerException
+query: Multi-Functional Pressure Cooker getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: blender getting products java.lang.NullPointerException
+query: blender getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $179.99"
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Smart Professional Blender getting products java.lang.NullPointerException
+query: Personal Single Serve Blender getting products java.lang.NullPointerException
+query: Personal Single Serve Blender getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.NullPointerException
+query: Multi-Function Blender with Glass Jar getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hand Blender Set getting products java.lang.NumberFormatException: For input string: "uggested Retail Price: $129.99"
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: Hand Blender Set getting products java.lang.NullPointerException
+	at com.fang.Main.main(Main.java:30)
+query: Hand Blender Set getting products java.lang.NullPointerException
+reading file query: Grill Pans getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Grill Pans getting products java.lang.NumberFormatException: For input string: "12.99 - $16.99"
+query: grill pans for stove tops getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: grill pans with lids getting products java.lang.NullPointerException
+query: grill pans with lids getting products java.lang.NullPointerException
+query: grill pans for outdoor grill getting products java.lang.NullPointerException
+query: grill pans for outdoor grill getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: grill pans for outdoor grill getting products java.lang.NumberFormatException: For input string: "12.99 - $16.99"
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: weber grill pans getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at com.fang.Main.main(Main.java:30)
+query: weber grill pans getting products java.lang.NullPointerException
+reading file query: pet bed getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NumberFormatException: For input string: "86.99 - $124.95"
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NumberFormatException: For input string: "147.50 - $148.00"
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+query: Frisco Quilted Fleece Pet Bed getting products java.lang.NullPointerException
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "23.08 - $42.49"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "19.62 - $38.83"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.82 - $29.95"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "23.59 - $114.56"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "19.29 - $69.99"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "7.50 - $39.99"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "34.99 - $37.09"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.52 - $35.50"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "13.99 - $16.99"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "34.38 - $78.68"
+query: Exercise Mats getting products java.lang.NumberFormatException: For input string: "40.40 - $69.99"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "30.17 - $71.97"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "26.99 - $27.99"
+query: Large Exercise Mats getting products java.lang.NullPointerException
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "14.99 - $39.99"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.52 - $35.50"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "39.99 - $42.99"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "33.61 - $62.14"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "34.99 - $37.09"
+query: Large Exercise Mats getting products java.lang.NumberFormatException: For input string: "48.94 - $119.95"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "12.82 - $29.95"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "13.99 - $16.99"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "7.50 - $39.99"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "19.62 - $38.83"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "12.52 - $35.50"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "17.29 - $28.51"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "18.99 - $42.99"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "12.99 - $20.95"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "39.99 - $69.99"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "11.09 - $14.95"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "26.99 - $27.99"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "8.75 - $9.98"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "19.32 - $19.95"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "12.99 - $13.99"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "12.99 - $20.41"
+query: Exercise Mats for yoga getting products java.lang.NumberFormatException: For input string: "11.99 - $12.99"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "23.08 - $42.49"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "23.59 - $114.56"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "17.29 - $28.51"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.82 - $29.95"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "15.78 - $44.55"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "22.95 - $53.99"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.52 - $35.50"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "23.74 - $41.95"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "14.99 - $20.06"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "7.50 - $39.99"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.99 - $20.95"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "19.62 - $38.83"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "19.99 - $79.99"
+query: Foam Exercise Mats getting products java.lang.NumberFormatException: For input string: "19.95 - $449.99"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.52 - $35.50"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "17.29 - $28.51"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "18.99 - $42.99"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "13.99 - $15.99"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "72.99 - $74.99"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.99 - $20.95"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "23.59 - $114.56"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "12.82 - $29.95"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "15.99 - $16.99"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "11.09 - $14.95"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "19.95 - $39.98"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "32.64 - $46.53"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "15.43 - $56.49"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "9.53 - $27.52"
+query: High-Density Exercise Mats getting products java.lang.NumberFormatException: For input string: "26.81 - $28.84"
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream Sefora getting products java.lang.NullPointerException
+query: Eye Cream for man getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+query: SK-II Eye Cream getting products java.lang.NullPointerException
+	at com.fang.Main.main(Main.java:30)
+query: SK-II Eye Cream getting products java.lang.NullPointerException
+query: SK-II Eye Cream getting products java.lang.NullPointerException
+reading file query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Hiking Shoe getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Wall Mount Shelf getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Glass Wall Mount Shelf getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+reading file 	at com.fang.Main.main(Main.java:30)
+query: Rack Organizer getting products java.lang.NullPointerException
+query: Rack Organizer getting products java.lang.NullPointerException
+query: Rack Organizer getting products java.lang.NullPointerException
+query: Battery Rack Organizer getting products java.lang.NullPointerException
+query: Battery Rack Organizer getting products java.lang.NullPointerException
+query: Spice Rack Organizer getting products java.lang.NullPointerException
+query: Spice Rack Organizer getting products java.lang.NullPointerException
+query: Can Rack Organizer getting products java.lang.NullPointerException
+query: Can Rack Organizer getting products java.lang.NullPointerException
+Shoe Rack Organizer, 7.0, 8404,	45reading file reading file java.lang.NumberFormatException: For input string: "	45"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Camping Lantern getting products java.lang.NumberFormatException: For input string: "7.99 - $13.99"
+query: Camping Lantern getting products java.lang.NumberFormatException: For input string: "34.87 - $155.00"
+query: Camping Lantern getting products java.lang.NumberFormatException: For input string: "4.99 - $13.99"
+query: Portable Outdoor Camping Lantern getting products java.lang.NumberFormatException: For input string: "8.99 - $14.99"
+query: Portable Outdoor Camping Lantern getting products java.lang.NumberFormatException: For input string: "9.99 - $17.99"
+query: Portable Outdoor Camping Lantern getting products java.lang.NumberFormatException: For input string: "10.99 - $21.99"
+query: Portable Outdoor Camping Lantern getting products java.lang.NumberFormatException: For input string: "9.95 - $46.61"
+query: Portable Outdoor Camping Lantern getting products java.lang.NumberFormatException: For input string: "19.99 - $21.99"
+query: LED Camping Lantern getting products java.lang.NumberFormatException: For input string: "11.89 - $25.27"
+query: LED Camping Lantern getting products java.lang.NumberFormatException: For input string: "9.66 - $9.99"
+query: LED Camping Lantern getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Brightest Camping Lantern getting products java.lang.NumberFormatException: For input string: "7.99 - $13.99"
+query: Brightest Camping Lantern getting products java.lang.NumberFormatException: For input string: "7.99 - $18.95"
+query: 4 Pack LED Camping Lanterns getting products java.lang.NumberFormatException: For input string: "8.99 - $13.99"
+query: 4 Pack LED Camping Lanterns getting products java.lang.NumberFormatException: For input string: "18.99 - $27.90"
+query: 4 Pack LED Camping Lanterns getting products java.lang.NumberFormatException: For input string: "5.99 - $16.99"
+query: 4 Pack LED Camping Lanterns getting products java.lang.NumberFormatException: For input string: "9.99 - $17.99"
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: Canopy Tent getting products java.lang.NumberFormatException: For input string: "94.99 - $121.97"
+query: Canopy Tent getting products java.lang.NumberFormatException: For input string: "60.93 - $182.66"
+query: Canopy Tent getting products java.lang.NullPointerException
+query: Canopy Tent getting products java.lang.NumberFormatException: For input string: "59.99 - $164.67"
+query: Canopy Tent getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Canopy Tent getting products java.lang.NumberFormatException: For input string: "19.76 - $123.74"
+query: Canopy Tent getting products java.lang.NumberFormatException: For input string: "149.00 - $229.00"
+reading file query: Executive Chair getting products java.lang.NullPointerException
+query: Executive Chair getting products java.lang.NullPointerException
+query: Executive Chair getting products java.lang.NullPointerException
+query: Executive Chair getting products java.lang.NumberFormatException: For input string: "85.06 - $160.36"
+query: Boss Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+query: Serta Executive Chair getting products java.lang.NullPointerException
+java.lang.ArrayIndexOutOfBoundsException: 1
+reading file 	at com.fang.Main.main(Main.java:30)
+query: Bookcase getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: Bookcase getting products java.lang.NullPointerException
+reading file reading file java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.fang.Main.main(Main.java:30)
+query: File Cabinets getting products java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+query: File Cabinets getting products java.lang.NullPointerException
+query: File Cabinets getting products java.lang.NullPointerException
+query: IKEA File Cabinets getting products java.lang.NullPointerException
+query: IKEA File Cabinets getting products java.lang.NumberFormatException: For input string: "1,400.99"
+query: Officeworks Filing Cabinets getting products java.lang.NumberFormatException: For input string: "244.96 - $766.83"
+query: Officeworks Filing Cabinets getting products java.lang.NullPointerException
+query: Officeworks Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NullPointerException
+query: Wooden Filing Cabinets getting products java.lang.NumberFormatException: For input string: "1,099.00"
+query: 3-drawer Filing Cabinet getting products java.lang.NullPointerException
+query: 3-drawer Filing Cabinet getting products java.lang.NullPointerException
+query: 3-drawer Filing Cabinet getting products java.lang.NullPointerException
+query: 3-drawer Filing Cabinet getting products java.lang.NumberFormatException: For input string: "1,099.00"
+
+Process finished with exit code 0
