@@ -57,9 +57,12 @@ public class Crower {
             e.printStackTrace();
         }
     }
-    public void getAmazonProds(String query, double bidPrice, int campaignId, int queryGroupId, Map<String, Ad> productsRecord) {
+    public void getAmazonProds(String query, int pageNumber, double bidPrice, int campaignId, int queryGroupId, Map<String, Ad> productsRecord) {
 
         String url = AMAZON_QUERY_URL+query.replaceAll(" ", "%20");
+        if(pageNumber > 0) {
+            url = url + "&page=" + Integer.toString(pageNumber);
+        }
 
         try {
             // Set up headers
@@ -97,7 +100,8 @@ public class Crower {
                     if(priceStr.contains("-")) {
                         priceStr = priceStr.substring(0, priceStr.indexOf("-"));
                     }
-                    priceStr.replaceAll("[,$]", "");
+                    priceStr = priceStr.replace("$", "");
+                    priceStr = priceStr.replace(",", "");
                     newAd.price = Double.parseDouble(priceStr.trim());
                     newAd.brand = brandElement.text();
                     newAd.thumbnail = imgUrlElement.attr("src");
